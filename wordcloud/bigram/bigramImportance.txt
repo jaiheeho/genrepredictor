@@ -1,0 +1,1632 @@
+     Action :WordCloud based on Randomforest Importance for each genre
+0.0066&fire\\
+0.0064&explod\\
+0.0052&speed\\
+0.0044&gun\\
+0.0040&kill\\
+0.0040&dive\\
+0.0032&weapon\\
+0.0032&fli\\
+0.0031&debri\\
+0.0031&blow\\
+0.0029&level\\
+0.0028&ground\\
+0.0028&shield\\
+0.0026&spin\\
+0.0024&drop\\
+0.0024&race\\
+0.0023&bridg\\
+0.0023&firebal\\
+0.0022&missil\\
+0.0022&launcher\\
+0.0020&fight\\
+0.0020&explos\\
+0.0020&rip\\
+0.0019&blown\\
+0.0019&behind\\
+0.0019&duck\\
+0.0019&wound\\
+0.0018&punch\\
+0.0018&roll\\
+0.0018&power\\
+0.0018&laser\\
+0.0017&flame\\
+0.0017&scope\\
+0.0017&love\\
+0.0017&send\\
+0.0016&barrel\\
+0.0016&gunfir\\
+0.0016&chopper\\
+0.0016&spark\\
+0.0016&burn\\
+0.0016&well\\
+0.0015&say\\
+0.0015&blast\\
+0.0015&machin gun\\
+0.0015&aim\\
+0.0015&ill\\
+0.0014&land\\
+0.0014&move\\
+0.0014&risk\\
+0.0014&kiss\\
+0.0014&code\\
+0.0014&air\\
+0.0014&surround\\
+0.0014&battl\\
+0.0014&open fire\\
+0.0014&said\\
+0.0013&pull\\
+0.0013&explion\\
+0.0013&deck\\
+0.0013&map\\
+0.0013&bed\\
+0.0013&bad\\
+0.0013&men\\
+0.0013&peopl\\
+0.0013&leap\\
+0.0013&kick\\
+0.0013&brake\\
+0.0013&hair\\
+0.0013&mean\\
+0.0012&run\\
+0.0012&die\\
+0.0012&grenad\\
+0.0012&whip\\
+0.0012&panel\\
+0.0012&sensor\\
+0.0012&ship\\
+0.0012&grim\\
+0.0012&secur\\
+0.0012&surviv\\
+0.0012&slide\\
+0.0011&dog\\
+0.0011&sure\\
+0.0011&command\\
+0.0011&make\\
+0.0011&pleas\\
+0.0011&cargo\\
+0.0011&hero\\
+0.0011&wreckag\\
+0.0011&hello\\
+0.0011&guard\\
+0.0011&compound\\
+0.0011&open\\
+0.0011&soldier\\
+0.0011&deadli\\
+0.0010&engulf\\
+0.0010&lead\\
+0.0010&ledg\\
+0.0010&cage\\
+0.0010&advanc\\
+0.0010&roof\\
+Drawing wordcloud......
+  Adventure :WordCloud based on Randomforest Importance for each genre
+0.0043&power\\
+0.0043&massiv\\
+0.0043&ship\\
+0.0040&rock\\
+0.0036&land\\
+0.0034&sword\\
+0.0031&sail\\
+0.0031&fall\\
+0.0030&rescu\\
+0.0029&cave\\
+0.0028&cliff\\
+0.0028&bridg\\
+0.0025&cloud\\
+0.0025&climb\\
+0.0024&sun\\
+0.0023&bow\\
+0.0022&fuck\\
+0.0022&gallop\\
+0.0022&leap\\
+0.0022&vine\\
+0.0021&planet\\
+0.0020&sand\\
+0.0020&rocki\\
+0.0020&forward\\
+0.0020&edg\\
+0.0020&boulder\\
+0.0020&sigh relief\\
+0.0018&pack\\
+0.0018&hors\\
+0.0018&dark\\
+0.0018&dwarf\\
+0.0018&bed\\
+0.0018&burger\\
+0.0017&sky\\
+0.0017&ass\\
+0.0017&sea\\
+0.0017&evil\\
+0.0016&energi\\
+0.0016&rope\\
+0.0016&glow\\
+0.0016&deck\\
+0.0016&rob\\
+0.0016&descend\\
+0.0016&magic\\
+0.0015&battl\\
+0.0015&peak\\
+0.0015&coffe\\
+0.0015&swoop\\
+0.0015&airlock\\
+0.0014&fli\\
+0.0014&offici\\
+0.0014&ramp\\
+0.0014&har\\
+0.0014&palac\\
+0.0014&know\\
+0.0014&snake\\
+0.0014&branch\\
+0.0014&cloak\\
+0.0013&throne\\
+0.0013&arrow\\
+0.0013&grab\\
+0.0013&pull\\
+0.0013&hurl\\
+0.0013&besid\\
+0.0013&appl\\
+0.0013&rider\\
+0.0013&swim\\
+0.0013&wreckag\\
+0.0013&feder\\
+0.0013&winch\\
+0.0013&shield\\
+0.0013&pursu\\
+0.0013&shock\\
+0.0013&lord\\
+0.0012&far\\
+0.0012&hull\\
+0.0012&guess\\
+0.0012&ga\\
+0.0012&damag\\
+0.0012&may\\
+0.0012&dig\\
+0.0012&wild\\
+0.0012&way\\
+0.0012&pour\\
+0.0012&shimmer\\
+0.0012&discov\\
+0.0012&fallen\\
+0.0012&guard\\
+0.0012&gold\\
+0.0012&data\\
+0.0012&check\\
+0.0012&blaze\\
+0.0012&soar\\
+0.0012&port\\
+0.0012&guid\\
+0.0012&ring\\
+0.0012&princess\\
+0.0012&doom\\
+0.0012&shrug\\
+0.0011&giant\\
+Drawing wordcloud......
+  Animation :WordCloud based on Randomforest Importance for each genre
+0.0075&whoa\\
+0.0070&doll\\
+0.0064&super\\
+0.0063&cheer\\
+0.0063&fairi\\
+0.0057&butt\\
+0.0052&fli air\\
+0.0049&fli\\
+0.0046&mous\\
+0.0045&furi\\
+0.0045&screen\\
+0.0043&awesom\\
+0.0039&princess\\
+0.0039&hey look\\
+0.0038&cours\\
+0.0037&hiccup\\
+0.0036&everyon look\\
+0.0034&shell\\
+0.0033&ici\\
+0.0033&log\\
+0.0033&egg\\
+0.0032&whack\\
+0.0032&heh\\
+0.0032&bodi\\
+0.0031&rocket\\
+0.0031&balloon\\
+0.0030&disguis\\
+0.0030&nightmar\\
+0.0030&deliv\\
+0.0030&pile\\
+0.0030&axe\\
+0.0030&sneak\\
+0.0030&remot\\
+0.0030&suck\\
+0.0029&score\\
+0.0029&chick\\
+0.0029&dig\\
+0.0029&fume\\
+0.0029&huddl\\
+0.0029&ooh\\
+0.0028&cower\\
+0.0028&transform\\
+0.0027&huh\\
+0.0027&sun\\
+0.0027&smack\\
+0.0027&bowl\\
+0.0026&zombi\\
+0.0026&sure\\
+0.0026&huge\\
+0.0026&sheep\\
+0.0026&zoo\\
+0.0025&push\\
+0.0025&land\\
+0.0025&street\\
+0.0025&wow\\
+0.0024&burst\\
+0.0024&boy\\
+0.0024&bunch\\
+0.0024&punch\\
+0.0024&goos\\
+0.0024&halloween\\
+0.0024&peek\\
+0.0023&unit\\
+0.0023&far\\
+0.0023&circl around\\
+0.0023&believ\\
+0.0023&reveal\\
+0.0023&horribl\\
+0.0022&formal\\
+0.0022&tent\\
+0.0022&palac\\
+0.0022&urin\\
+0.0022&camper\\
+0.0022&circu\\
+0.0022&huh huh\\
+0.0022&yeah\\
+0.0022&paw\\
+0.0021&flock\\
+0.0021&shroud\\
+0.0021&hideou\\
+0.0021&jealou\\
+0.0021&swoop\\
+0.0021&mound\\
+0.0020&pose\\
+0.0020&usher\\
+0.0020&arm\\
+0.0020&scroll\\
+0.0020&happili\\
+0.0020&dad\\
+0.0020&cube\\
+0.0020&hey hey\\
+0.0020&look surpris\\
+0.0019&pearl\\
+0.0019&apron\\
+0.0019&roof\\
+0.0019&muffl\\
+0.0019&head hand\\
+0.0019&walk\\
+0.0019&bumper\\
+0.0019&mode\\
+Drawing wordcloud......
+     Comedy :WordCloud based on Randomforest Importance for each genre
+0.0066&blood\\
+0.0045&well\\
+0.0042&realli\\
+0.0041&wow\\
+0.0033&hey\\
+0.0032&bodi\\
+0.0032&face\\
+0.0030&gay\\
+0.0030&love\\
+0.0030&dark\\
+0.0029&behind\\
+0.0029&okay\\
+0.0025&mean\\
+0.0024&dude\\
+0.0024&wound\\
+0.0024&your\\
+0.0024&forc\\
+0.0023&eye\\
+0.0023&yeah\\
+0.0021&broken\\
+0.0021&fun\\
+0.0021&away\\
+0.0020&gonna\\
+0.0019&happi\\
+0.0019&floor\\
+0.0018&kill\\
+0.0018&side\\
+0.0018&close\\
+0.0018&sexi\\
+0.0017&reach\\
+0.0017&dead\\
+0.0017&actual\\
+0.0017&neck\\
+0.0017&wear\\
+0.0017&move\\
+0.0016&marri\\
+0.0016&grip\\
+0.0016&good\\
+0.0016&huh\\
+0.0016&wall\\
+0.0015&school\\
+0.0015&kid\\
+0.0015&keep\\
+0.0015&push\\
+0.0015&nice\\
+0.0015&crap\\
+0.0015&ooh\\
+0.0014&anyway\\
+0.0014&sex\\
+0.0014&cool\\
+0.0014&glimps\\
+0.0014&sound\\
+0.0014&edg\\
+0.0014&fire\\
+0.0014&sorri\\
+0.0013&ass\\
+0.0013&big\\
+0.0013&cooki\\
+0.0013&leav\\
+0.0013&dog\\
+0.0013&guy\\
+0.0013&gee\\
+0.0012&shadow\\
+0.0012&bunch\\
+0.0012&bye\\
+0.0012&help\\
+0.0012&applaud\\
+0.0012&movi\\
+0.0012&spend\\
+0.0012&yeah know\\
+0.0012&arm\\
+0.0012&find\\
+0.0012&serious\\
+0.0012&buri\\
+0.0012&funni\\
+0.0012&amaz\\
+0.0011&fear\\
+0.0011&sing\\
+0.0011&finger\\
+0.0011&stuff\\
+0.0011&sure\\
+0.0011&kiss\\
+0.0011&burn\\
+0.0011&bleed\\
+0.0011&power\\
+0.0011&shit\\
+0.0010&pizza\\
+0.0010&show\\
+0.0010&danc\\
+0.0010&come\\
+0.0010&mayb could\\
+0.0010&weird\\
+0.0010&rise\\
+0.0010&suddenli\\
+0.0010&suck\\
+0.0010&lower\\
+0.0010&explod\\
+0.0010&big deal\\
+0.0010&becom\\
+0.0010&idea\\
+Drawing wordcloud......
+      Crime :WordCloud based on Randomforest Importance for each genre
+0.0062&cop\\
+0.0050&crime\\
+0.0050&gun\\
+0.0049&cash\\
+0.0046&case\\
+0.0042&fuckin\\
+0.0035&pull gun\\
+0.0031&car park\\
+0.0031&money\\
+0.0031&gun hand\\
+0.0029&fuck\\
+0.0025&gun gun\\
+0.0024&he\\
+0.0023&bodyguard\\
+0.0023&begin\\
+0.0023&unmark\\
+0.0023&car\\
+0.0022&murder\\
+0.0022&drive\\
+0.0022&cuff\\
+0.0020&handcuf\\
+0.0019&busi\\
+0.0019&kill\\
+0.0019&handcuff\\
+0.0018&polic\\
+0.0018&bag\\
+0.0018&hooker\\
+0.0017&cadillac\\
+0.0017&crimin\\
+0.0017&piss\\
+0.0016&behind wheel\\
+0.0016&uhhuh\\
+0.0016&neighborhood\\
+0.0016&pussi\\
+0.0015&curb\\
+0.0015&siren\\
+0.0015&homicid\\
+0.0015&drug\\
+0.0015&famili\\
+0.0015&alley\\
+0.0014&polici\\
+0.0014&jewelri\\
+0.0014&fed\\
+0.0014&garag\\
+0.0014&fbi\\
+0.0013&deal\\
+0.0013&lawyer\\
+0.0013&million\\
+0.0013&know\\
+0.0013&check\\
+0.0013&pay\\
+0.0013&bang\\
+0.0013&nice\\
+0.0013&rob\\
+0.0013&jesu\\
+0.0013&briefcas\\
+0.0013&miami\\
+0.0012&job\\
+0.0012&park\\
+0.0012&korean\\
+0.0012&club\\
+0.0012&jail\\
+0.0012&one hand\\
+0.0012&gambl\\
+0.0012&bedroom\\
+0.0012&dollar\\
+0.0012&guy guy\\
+0.0011&robberi\\
+0.0011&middleag\\
+0.0011&member\\
+0.0011&guy\\
+0.0011&lie\\
+0.0011&check watch\\
+0.0011&run\\
+0.0011&bank\\
+0.0011&coke\\
+0.0011&sip\\
+0.0011&johnni\\
+0.0010&paul\\
+0.0010&dress\\
+0.0010&sure\\
+0.0010&bring\\
+0.0010&men room\\
+0.0010&face\\
+0.0010&offic\\
+0.0010&work\\
+0.0010&worri\\
+0.0010&surveil\\
+0.0010&cowboy\\
+0.0010&mean\\
+0.0010&crash\\
+0.0010&casino\\
+0.0010&linger\\
+0.0010&sinc\\
+0.0010&count\\
+0.0010&ford\\
+0.0009&servic\\
+0.0009&behind bar\\
+0.0009&know guy\\
+0.0009&buddi\\
+Drawing wordcloud......
+      Drama :WordCloud based on Randomforest Importance for each genre
+0.0041&said\\
+0.0034&say\\
+0.0033&fli\\
+0.0033&week\\
+0.0031&ask\\
+0.0029&run\\
+0.0027&spin\\
+0.0026&good\\
+0.0024&play\\
+0.0022&drink\\
+0.0020&home\\
+0.0020&bed\\
+0.0019&behind\\
+0.0018&wife\\
+0.0018&leap\\
+0.0017&grab\\
+0.0017&fire\\
+0.0016&love\\
+0.0016&silenc\\
+0.0016&know\\
+0.0016&would\\
+0.0016&suddenli\\
+0.0015&scream\\
+0.0015&even\\
+0.0015&hous\\
+0.0015&famili\\
+0.0015&sit\\
+0.0014&mama\\
+0.0014&sleep\\
+0.0014&reveal\\
+0.0014&alway\\
+0.0014&make\\
+0.0014&jump\\
+0.0014&leav\\
+0.0013&power\\
+0.0013&wash\\
+0.0013&explod\\
+0.0013&ill\\
+0.0013&lie\\
+0.0013&morn\\
+0.0013&peopl\\
+0.0013&cabl\\
+0.0013&paus\\
+0.0012&room\\
+0.0012&speak\\
+0.0012&wall\\
+0.0012&guess\\
+0.0012&word\\
+0.0012&ye\\
+0.0012&flame\\
+0.0012&work\\
+0.0012&dive\\
+0.0012&dinner\\
+0.0011&alon\\
+0.0011&weve\\
+0.0011&day\\
+0.0011&like\\
+0.0011&tea\\
+0.0011&rip\\
+0.0011&duck\\
+0.0011&cant\\
+0.0011&els\\
+0.0010&paper\\
+0.0010&talk\\
+0.0010&bench\\
+0.0010&help\\
+0.0010&church\\
+0.0010&walk\\
+0.0010&drop\\
+0.0010&coffe\\
+0.0010&beer\\
+0.0010&husband\\
+0.0010&ladi\\
+0.0010&mean\\
+0.0010&lose\\
+0.0010&music\\
+0.0010&he\\
+0.0010&kick\\
+0.0010&made\\
+0.0010&floor\\
+0.0010&love love\\
+0.0009&slide\\
+0.0009&forgiv\\
+0.0009&sorri\\
+0.0009&check\\
+0.0009&sure\\
+0.0009&sit bed\\
+0.0009&prayer\\
+0.0009&side\\
+0.0009&page\\
+0.0009&law\\
+0.0009&dont want\\
+0.0009&shake hand\\
+0.0009&need\\
+0.0009&zoom\\
+0.0009&ship\\
+0.0009&write\\
+0.0009&letter\\
+0.0009&whip\\
+0.0009&eye\\
+Drawing wordcloud......
+     Family :WordCloud based on Randomforest Importance for each genre
+0.0111&glove\\
+0.0056&paw\\
+0.0055&packag\\
+0.0048&dread\\
+0.0045&doll\\
+0.0044&strike\\
+0.0043&put back\\
+0.0042&crown\\
+0.0040&dragon\\
+0.0039&happili\\
+0.0038&tire\\
+0.0037&swim\\
+0.0036&whoa\\
+0.0035&throw\\
+0.0035&get car\\
+0.0034&hey hey\\
+0.0034&grew\\
+0.0033&help\\
+0.0033&grand\\
+0.0033&hey\\
+0.0033&come\\
+0.0032&duck\\
+0.0032&ever seen\\
+0.0032&bye\\
+0.0032&appl\\
+0.0030&etc\\
+0.0030&weav\\
+0.0029&fairi\\
+0.0029&ghost\\
+0.0029&ill\\
+0.0029&eyebrow\\
+0.0029&goos\\
+0.0029&palac\\
+0.0029&merri\\
+0.0028&hero\\
+0.0028&beckon\\
+0.0027&dime\\
+0.0027&circl around\\
+0.0027&dont worri\\
+0.0026&will\\
+0.0026&carpet\\
+0.0026&ill take\\
+0.0026&kid\\
+0.0026&field\\
+0.0025&month\\
+0.0025&fenc\\
+0.0025&lurch\\
+0.0025&past\\
+0.0025&mous\\
+0.0025&bowl\\
+0.0025&right back\\
+0.0025&mari\\
+0.0024&live room\\
+0.0024&know\\
+0.0024&cant take\\
+0.0024&outsid\\
+0.0023&minor\\
+0.0023&banner\\
+0.0023&famili\\
+0.0023&nois\\
+0.0023&crush\\
+0.0023&six\\
+0.0023&despair\\
+0.0022&excel\\
+0.0022&one like\\
+0.0022&assembl\\
+0.0022&final\\
+0.0022&pick one\\
+0.0021&event\\
+0.0021&fold\\
+0.0021&rubbl\\
+0.0021&big\\
+0.0021&stuf\\
+0.0021&hail\\
+0.0021&girl\\
+0.0020&wardrob\\
+0.0020&what\\
+0.0020&fli\\
+0.0020&send\\
+0.0020&ninja\\
+0.0020&princess\\
+0.0020&silk\\
+0.0020&object\\
+0.0020&ooh\\
+0.0020&black\\
+0.0020&motor\\
+0.0019&dog\\
+0.0019&bell ring\\
+0.0019&okay okay\\
+0.0019&dont understand\\
+0.0019&find\\
+0.0019&wherev\\
+0.0019&way way\\
+0.0019&viciou\\
+0.0019&resid\\
+0.0019&huddl\\
+0.0018&awak\\
+0.0018&sun\\
+0.0018&dont get\\
+0.0018&tri keep\\
+Drawing wordcloud......
+    Fantasy :WordCloud based on Randomforest Importance for each genre
+0.0069&sword\\
+0.0051&lie\\
+0.0048&princess\\
+0.0037&evil\\
+0.0037&help\\
+0.0033&peopl come\\
+0.0033&magic\\
+0.0033&horn\\
+0.0027&creepi\\
+0.0026&chicken\\
+0.0025&enrag\\
+0.0024&throne\\
+0.0024&main room\\
+0.0024&giant\\
+0.0023&dragon\\
+0.0022&lord\\
+0.0022&warrior\\
+0.0021&usher\\
+0.0021&golden\\
+0.0021&demon\\
+0.0021&soul\\
+0.0021&flood\\
+0.0020&flame\\
+0.0019&cheek\\
+0.0019&dagger\\
+0.0019&quiet\\
+0.0019&mous\\
+0.0019&moon\\
+0.0018&gray\\
+0.0018&youll see\\
+0.0018&face\\
+0.0018&possess\\
+0.0018&must\\
+0.0018&doll\\
+0.0017&unfortun\\
+0.0017&fuck\\
+0.0017&diner\\
+0.0017&closer closer\\
+0.0017&number\\
+0.0017&cloak\\
+0.0016&creatur\\
+0.0016&vulner\\
+0.0016&folder\\
+0.0016&keep\\
+0.0016&cavern\\
+0.0016&ring\\
+0.0016&convuls\\
+0.0016&flinch\\
+0.0016&enough\\
+0.0015&troop\\
+0.0015&hero\\
+0.0015&thrust\\
+0.0015&spear\\
+0.0015&larg\\
+0.0015&becom\\
+0.0015&heaven\\
+0.0015&creat\\
+0.0015&wish\\
+0.0015&discov\\
+0.0015&prize\\
+0.0014&spell\\
+0.0014&beast\\
+0.0014&famili\\
+0.0014&flip\\
+0.0014&around head\\
+0.0014&familiar\\
+0.0014&quickli\\
+0.0014&come\\
+0.0014&perch\\
+0.0013&wig\\
+0.0013&someon els\\
+0.0013&know way\\
+0.0013&recogn\\
+0.0013&age\\
+0.0013&preciou\\
+0.0013&final\\
+0.0013&one look\\
+0.0013&field\\
+0.0013&forest\\
+0.0013&sadli\\
+0.0013&drunken\\
+0.0013&novel\\
+0.0013&cooki\\
+0.0013&toy\\
+0.0013&courag\\
+0.0013&jesu\\
+0.0013&growl\\
+0.0013&run hand\\
+0.0012&week\\
+0.0012&palac\\
+0.0012&howl\\
+0.0012&iron\\
+0.0012&born\\
+0.0012&swirl\\
+0.0012&he\\
+0.0012&crazi\\
+0.0012&hell\\
+0.0012&ill\\
+0.0012&suddenli\\
+0.0012&cigar\\
+Drawing wordcloud......
+     Horror :WordCloud based on Randomforest Importance for each genre
+0.0078&blood\\
+0.0062&scream\\
+0.0058&bodi\\
+0.0047&dark\\
+0.0046&drip\\
+0.0037&bloodi\\
+0.0037&sound\\
+0.0034&men\\
+0.0034&corps\\
+0.0029&shadow\\
+0.0028&horror\\
+0.0027&door door\\
+0.0026&howl\\
+0.0025&door\\
+0.0025&scare\\
+0.0024&flesh\\
+0.0024&knive\\
+0.0024&back away\\
+0.0022&skin\\
+0.0021&run away\\
+0.0021&louder\\
+0.0020&shard\\
+0.0020&door room\\
+0.0020&pull door\\
+0.0020&killer\\
+0.0019&rot\\
+0.0019&neck\\
+0.0018&slowli\\
+0.0018&horribl\\
+0.0018&good\\
+0.0018&skull\\
+0.0018&trap\\
+0.0018&say\\
+0.0018&normal\\
+0.0017&devil\\
+0.0017&sob\\
+0.0017&figur\\
+0.0017&closer\\
+0.0016&mouth\\
+0.0016&vein\\
+0.0016&omin\\
+0.0015&lung\\
+0.0015&fli open\\
+0.0015&hous room\\
+0.0015&give\\
+0.0014&grave\\
+0.0014&reveal\\
+0.0014&children\\
+0.0014&open door\\
+0.0014&look\\
+0.0014&shine\\
+0.0014&flex\\
+0.0014&axe\\
+0.0014&reach\\
+0.0014&teeth\\
+0.0014&crawl\\
+0.0014&ceil\\
+0.0013&much\\
+0.0013&angel\\
+0.0013&echo\\
+0.0013&open\\
+0.0013&upstair\\
+0.0013&fang\\
+0.0013&ive seen\\
+0.0013&sid\\
+0.0013&nois\\
+0.0013&look insid\\
+0.0013&life\\
+0.0013&psycho\\
+0.0013&away\\
+0.0013&main room\\
+0.0013&princess\\
+0.0013&wolf\\
+0.0013&climb\\
+0.0013&contd\\
+0.0013&darken\\
+0.0013&desper\\
+0.0013&home\\
+0.0012&door close\\
+0.0012&presenc\\
+0.0012&ask\\
+0.0012&door back\\
+0.0012&bone\\
+0.0012&door lock\\
+0.0012&jaw\\
+0.0012&lab\\
+0.0012&door lead\\
+0.0012&terrifi\\
+0.0012&slash\\
+0.0012&trevor\\
+0.0012&horrifi\\
+0.0012&leap\\
+0.0012&side\\
+0.0012&bed\\
+0.0012&hear scream\\
+0.0012&your\\
+0.0012&right behind\\
+0.0012&ferri\\
+0.0012&crunch\\
+0.0012&wind blow\\
+Drawing wordcloud......
+    Musical :WordCloud based on Randomforest Importance for each genre
+0.0151&sing\\
+0.0081&major\\
+0.0071&song\\
+0.0061&sexi\\
+0.0058&bless\\
+0.0055&old ladi\\
+0.0052&music\\
+0.0051&mesmer\\
+0.0051&excel\\
+0.0048&pri\\
+0.0048&choru\\
+0.0047&inspir\\
+0.0047&look suddenli\\
+0.0046&els\\
+0.0045&opposit\\
+0.0045&record\\
+0.0043&cat\\
+0.0041&club\\
+0.0039&custom\\
+0.0039&runway\\
+0.0038&hair\\
+0.0038&guitar\\
+0.0038&happili\\
+0.0038&salut\\
+0.0037&turn run\\
+0.0037&tonight\\
+0.0036&band\\
+0.0035&fund\\
+0.0035&new angl\\
+0.0034&laugh\\
+0.0034&penni\\
+0.0034&lamp\\
+0.0032&rehears\\
+0.0032&aisl\\
+0.0031&makeup\\
+0.0031&shop day\\
+0.0031&perform\\
+0.0031&pearl\\
+0.0031&applaud\\
+0.0030&scari\\
+0.0030&dissolv\\
+0.0030&got\\
+0.0030&movi\\
+0.0029&pull back\\
+0.0029&fix\\
+0.0029&tri keep\\
+0.0029&tray\\
+0.0028&see figur\\
+0.0028&bat\\
+0.0028&banner\\
+0.0027&shoulder\\
+0.0026&spi\\
+0.0026&maze\\
+0.0026&look confus\\
+0.0025&opera\\
+0.0025&well never\\
+0.0024&begin\\
+0.0024&kept\\
+0.0024&outfit\\
+0.0024&bread\\
+0.0024&den\\
+0.0024&end\\
+0.0024&soul\\
+0.0024&brave\\
+0.0023&hush\\
+0.0023&bar\\
+0.0023&paper\\
+0.0023&beckon\\
+0.0023&know good\\
+0.0023&begun\\
+0.0023&brain\\
+0.0022&experi\\
+0.0022&hour\\
+0.0021&produc\\
+0.0020&behind see\\
+0.0020&wise\\
+0.0020&yellow\\
+0.0020&demand\\
+0.0020&bell\\
+0.0020&die\\
+0.0020&drug\\
+0.0020&stage\\
+0.0020&place like\\
+0.0020&polici\\
+0.0020&chase\\
+0.0019&wildli\\
+0.0019&furnish\\
+0.0019&monday\\
+0.0019&self\\
+0.0019&loom\\
+0.0019&plan\\
+0.0019&strike\\
+0.0019&duti\\
+0.0019&seem\\
+0.0019&piano\\
+0.0019&weigh\\
+0.0019&market\\
+0.0019&grunt\\
+0.0019&look look\\
+0.0019&distant\\
+Drawing wordcloud......
+    Mystery :WordCloud based on Randomforest Importance for each genre
+0.0035&someon\\
+0.0031&didnt\\
+0.0030&found\\
+0.0030&log\\
+0.0030&killer\\
+0.0028&wasnt\\
+0.0027&paperwork\\
+0.0026&someth\\
+0.0025&ferri\\
+0.0025&search\\
+0.0024&youv\\
+0.0023&know dont\\
+0.0021&accus\\
+0.0021&fifth\\
+0.0021&depart\\
+0.0020&saw\\
+0.0020&youv got\\
+0.0020&deer\\
+0.0019&clue\\
+0.0019&mirror\\
+0.0019&murder\\
+0.0019&color\\
+0.0018&want know\\
+0.0018&long beat\\
+0.0018&know look\\
+0.0018&bmw\\
+0.0018&employ\\
+0.0018&mistak\\
+0.0018&figur\\
+0.0018&tell\\
+0.0017&jason\\
+0.0017&evid\\
+0.0017&letter\\
+0.0017&messag\\
+0.0017&scowl\\
+0.0017&boot\\
+0.0017&knew\\
+0.0017&guy\\
+0.0017&becom\\
+0.0016&mule\\
+0.0016&dinner\\
+0.0016&old\\
+0.0016&look shoulder\\
+0.0016&princip\\
+0.0016&find\\
+0.0016&slowli move\\
+0.0016&fli open\\
+0.0016&half dozen\\
+0.0015&dream\\
+0.0015&freezer\\
+0.0015&room\\
+0.0015&written\\
+0.0015&name\\
+0.0015&aisl\\
+0.0015&alreadi\\
+0.0015&play game\\
+0.0015&knife\\
+0.0014&lobbi\\
+0.0014&would know\\
+0.0014&display\\
+0.0014&barren\\
+0.0014&rememb\\
+0.0014&capsul\\
+0.0014&hook\\
+0.0014&key\\
+0.0014&eleg\\
+0.0014&exactli\\
+0.0014&door\\
+0.0014&island\\
+0.0013&click\\
+0.0013&somewher\\
+0.0013&weari\\
+0.0013&carv\\
+0.0013&video\\
+0.0013&dyou\\
+0.0013&cri\\
+0.0013&lead\\
+0.0013&number\\
+0.0013&light\\
+0.0013&silenc\\
+0.0013&institut\\
+0.0013&pull open\\
+0.0013&focu\\
+0.0013&static\\
+0.0013&live\\
+0.0013&run door\\
+0.0013&ceremoni\\
+0.0012&heard\\
+0.0012&lo angel\\
+0.0012&cell phone\\
+0.0012&paramed\\
+0.0012&lay\\
+0.0012&inform\\
+0.0012&around look\\
+0.0012&behind wheel\\
+0.0012&inn\\
+0.0012&see she\\
+0.0012&recal\\
+0.0012&anymor\\
+0.0012&engin\\
+Drawing wordcloud......
+    Romance :WordCloud based on Randomforest Importance for each genre
+0.0078&love\\
+0.0078&kiss\\
+0.0041&happi\\
+0.0040&gun\\
+0.0035&marri\\
+0.0035&dead\\
+0.0030&love love\\
+0.0030&realli\\
+0.0027&fun\\
+0.0026&sorri\\
+0.0026&marriag\\
+0.0024&danc\\
+0.0023&nice\\
+0.0023&fire\\
+0.0023&kill\\
+0.0021&well\\
+0.0020&kiss cheek\\
+0.0020&away\\
+0.0019&scream\\
+0.0019&record\\
+0.0019&danc floor\\
+0.0018&heart\\
+0.0018&would never\\
+0.0017&bodi\\
+0.0017&beauti\\
+0.0016&funni\\
+0.0016&sex\\
+0.0016&lesson\\
+0.0016&blush\\
+0.0016&charm\\
+0.0016&cup\\
+0.0016&best\\
+0.0015&song\\
+0.0015&alway\\
+0.0015&wall\\
+0.0015&letter\\
+0.0015&would\\
+0.0014&first time\\
+0.0014&awkward\\
+0.0014&divorc\\
+0.0014&bride\\
+0.0014&parti\\
+0.0014&news\\
+0.0013&pregnant\\
+0.0013&hand\\
+0.0013&ye\\
+0.0013&fli\\
+0.0013&your\\
+0.0013&ill see\\
+0.0013&wonder\\
+0.0013&dinner\\
+0.0013&would like\\
+0.0012&hear\\
+0.0012&feel\\
+0.0012&burli\\
+0.0012&sexi\\
+0.0012&hear voic\\
+0.0012&receiv\\
+0.0012&corner\\
+0.0012&morn\\
+0.0012&she\\
+0.0012&look\\
+0.0012&anyway\\
+0.0012&say\\
+0.0012&glare\\
+0.0011&walk\\
+0.0011&green\\
+0.0011&doorbel\\
+0.0011&wow\\
+0.0011&alon\\
+0.0011&smile\\
+0.0011&lay\\
+0.0011&idea\\
+0.0011&burn\\
+0.0011&never\\
+0.0011&drop\\
+0.0011&cue\\
+0.0011&make face\\
+0.0011&floor\\
+0.0011&walk past\\
+0.0011&mother\\
+0.0010&know\\
+0.0010&lover\\
+0.0010&yeah\\
+0.0010&pride\\
+0.0010&cheek\\
+0.0010&buy\\
+0.0010&boyfriend\\
+0.0010&thought\\
+0.0010&silenc\\
+0.0010&lunch\\
+0.0010&sound\\
+0.0010&make love\\
+0.0010&wheelchair\\
+0.0010&sad\\
+0.0010&land\\
+0.0010&well well\\
+0.0010&place\\
+0.0010&luck\\
+0.0009&excus\\
+Drawing wordcloud......
+     Sci-Fi :WordCloud based on Randomforest Importance for each genre
+0.0075&alien\\
+0.0051&ship\\
+0.0048&power\\
+0.0048&space\\
+0.0046&consol\\
+0.0044&pod\\
+0.0044&human\\
+0.0042&scienc\\
+0.0039&planet\\
+0.0039&energi\\
+0.0039&panel\\
+0.0034&lab\\
+0.0034&damag\\
+0.0028&debri\\
+0.0027&hole\\
+0.0026&airlock\\
+0.0025&screen\\
+0.0025&procedur\\
+0.0025&forc\\
+0.0025&sensor\\
+0.0024&visor\\
+0.0024&asteroid\\
+0.0023&puls\\
+0.0023&launch\\
+0.0022&hydraul\\
+0.0022&viru\\
+0.0022&vehicl\\
+0.0022&machineri\\
+0.0021&sky\\
+0.0021&electron\\
+0.0021&beep\\
+0.0020&laser\\
+0.0020&system\\
+0.0019&hous\\
+0.0019&cylind\\
+0.0019&rim\\
+0.0019&slide open\\
+0.0019&say\\
+0.0018&bay\\
+0.0018&clear\\
+0.0018&puke\\
+0.0018&level\\
+0.0017&save\\
+0.0017&hover\\
+0.0017&sphere\\
+0.0017&glow\\
+0.0017&worri\\
+0.0017&machin\\
+0.0017&explion\\
+0.0016&mar\\
+0.0016&arc\\
+0.0016&howard\\
+0.0016&gener\\
+0.0015&imag\\
+0.0015&number\\
+0.0015&insid\\
+0.0015&collaps\\
+0.0015&resembl\\
+0.0015&drone\\
+0.0015&biker\\
+0.0015&rev\\
+0.0015&object\\
+0.0014&heavi\\
+0.0014&hulk\\
+0.0014&program\\
+0.0014&capsul\\
+0.0014&rapidli\\
+0.0014&rush\\
+0.0014&vessel\\
+0.0014&monitor\\
+0.0014&boulder\\
+0.0014&missil\\
+0.0013&form\\
+0.0013&electr\\
+0.0013&gradual\\
+0.0013&shield\\
+0.0013&research\\
+0.0013&confus\\
+0.0013&repair\\
+0.0013&bang\\
+0.0013&eye eye\\
+0.0013&spider\\
+0.0013&bodi\\
+0.0013&map\\
+0.0013&plan\\
+0.0013&creatur\\
+0.0012&facil\\
+0.0012&hull\\
+0.0012&oxygen\\
+0.0012&remain\\
+0.0012&tunnel\\
+0.0012&repeat\\
+0.0012&view\\
+0.0012&engulf\\
+0.0012&disappear\\
+0.0012&sizzl\\
+0.0012&vanish\\
+0.0012&helicopt\\
+0.0012&modul\\
+0.0011&fire\\
+Drawing wordcloud......
+   Thriller :WordCloud based on Randomforest Importance for each genre
+0.0058&click\\
+0.0047&fuck\\
+0.0043&love\\
+0.0028&gun\\
+0.0028&blood\\
+0.0024&door\\
+0.0023&check\\
+0.0021&slide\\
+0.0020&cop\\
+0.0019&slam\\
+0.0017&murder\\
+0.0017&move\\
+0.0016&open\\
+0.0016&window\\
+0.0016&knife\\
+0.0016&killer\\
+0.0015&hell\\
+0.0015&kill\\
+0.0015&dark\\
+0.0015&windshield\\
+0.0015&cheer\\
+0.0014&floor\\
+0.0014&park\\
+0.0014&desk\\
+0.0014&lock\\
+0.0014&well\\
+0.0013&door room\\
+0.0013&phone ring\\
+0.0013&cours\\
+0.0013&bodi\\
+0.0012&find\\
+0.0012&slow\\
+0.0012&cellular\\
+0.0012&ride\\
+0.0012&wife\\
+0.0012&cell phone\\
+0.0012&offic\\
+0.0012&number\\
+0.0012&wide open\\
+0.0012&gun hand\\
+0.0012&phone\\
+0.0012&fuck fuck\\
+0.0011&sound\\
+0.0011&push\\
+0.0011&clip\\
+0.0011&case\\
+0.0011&dial\\
+0.0011&fbi\\
+0.0011&reach\\
+0.0011&pull gun\\
+0.0011&unmark\\
+0.0011&wow\\
+0.0010&driver\\
+0.0010&pull door\\
+0.0010&boy\\
+0.0010&dead\\
+0.0010&sing\\
+0.0010&side door\\
+0.0010&access\\
+0.0010&blur\\
+0.0010&yeah\\
+0.0010&new\\
+0.0010&ye\\
+0.0010&passeng\\
+0.0010&whir\\
+0.0010&file\\
+0.0010&scream\\
+0.0010&someon\\
+0.0010&pickup\\
+0.0010&corner\\
+0.0010&jesu\\
+0.0010&close\\
+0.0010&purs\\
+0.0010&surveil\\
+0.0010&open door\\
+0.0009&code\\
+0.0009&happi\\
+0.0009&search\\
+0.0009&skin\\
+0.0009&shall\\
+0.0009&briefcas\\
+0.0009&mirror\\
+0.0009&fund\\
+0.0009&corridor\\
+0.0009&pump\\
+0.0009&news\\
+0.0009&door open\\
+0.0009&badg\\
+0.0009&back\\
+0.0009&key\\
+0.0009&year\\
+0.0009&shoot\\
+0.0009&focu\\
+0.0009&tens\\
+0.0009&call\\
+0.0009&hold look\\
+0.0009&goddamn\\
+0.0009&work\\
+0.0009&machin\\
+0.0009&climb\\
+Drawing wordcloud......
+        War :WordCloud based on Randomforest Importance for each genre
+0.0084&go go\\
+0.0077&jewish\\
+0.0077&armi\\
+0.0064&war\\
+0.0059&hing\\
+0.0058&surrend\\
+0.0055&south\\
+0.0054&motionless\\
+0.0054&cinema\\
+0.0054&mountain\\
+0.0052&jew\\
+0.0050&see open\\
+0.0050&charg\\
+0.0049&shell\\
+0.0048&savag\\
+0.0048&tone\\
+0.0047&polish\\
+0.0047&cold\\
+0.0046&farmer\\
+0.0044&rain\\
+0.0044&machin gun\\
+0.0043&way back\\
+0.0042&arrest\\
+0.0042&rank\\
+0.0042&lad\\
+0.0042&fiddl\\
+0.0041&english\\
+0.0040&regular\\
+0.0040&choke\\
+0.0040&camp\\
+0.0038&ram\\
+0.0037&outsid\\
+0.0036&bunker\\
+0.0035&rifl\\
+0.0035&go kill\\
+0.0034&wound\\
+0.0033&plume\\
+0.0032&franc\\
+0.0032&clamber\\
+0.0032&troop\\
+0.0032&soldier\\
+0.0032&pleasur\\
+0.0032&gun fire\\
+0.0032&anoth\\
+0.0031&civilian\\
+0.0031&villag\\
+0.0030&dock\\
+0.0029&sergeant\\
+0.0029&turn leav\\
+0.0029&hut\\
+0.0029&hard\\
+0.0028&order\\
+0.0028&suddenli see\\
+0.0028&refus\\
+0.0028&steep\\
+0.0028&gentli\\
+0.0027&march\\
+0.0027&opposit\\
+0.0027&thousand\\
+0.0026&french\\
+0.0026&jam\\
+0.0026&friday\\
+0.0025&give hand\\
+0.0025&shout\\
+0.0025&yet\\
+0.0025&place\\
+0.0025&nobl\\
+0.0025&fool\\
+0.0024&merci\\
+0.0024&fight\\
+0.0024&mani\\
+0.0024&rumor\\
+0.0024&american\\
+0.0024&fucker\\
+0.0023&hunt\\
+0.0023&wreck\\
+0.0023&distant\\
+0.0023&back insid\\
+0.0023&furi\\
+0.0023&catch breath\\
+0.0022&join\\
+0.0022&nurs\\
+0.0022&cloth\\
+0.0022&peopl\\
+0.0022&clatter\\
+0.0022&ill\\
+0.0022&men\\
+0.0022&cemeteri\\
+0.0021&butt\\
+0.0021&sir\\
+0.0021&reason\\
+0.0020&servant\\
+0.0020&gold\\
+0.0020&eventu\\
+0.0020&german\\
+0.0020&await\\
+0.0020&assur\\
+0.0019&like hell\\
+0.0019&doubl\\
+0.0019&accord\\
+Drawing wordcloud......
+    Western :WordCloud based on Randomforest Importance for each genre
+0.0150&grimli\\
+0.0117&saddl\\
+0.0089&ride\\
+0.0088&turn corner\\
+0.0084&rifl\\
+0.0079&pull\\
+0.0075&matti\\
+0.0075&trunk\\
+0.0075&consciou\\
+0.0065&hors\\
+0.0064&wander\\
+0.0057&bibl\\
+0.0057&ought\\
+0.0056&pat\\
+0.0055&doesnt answer\\
+0.0052&proudli\\
+0.0051&mean\\
+0.0050&mayb\\
+0.0048&herd\\
+0.0047&angrili\\
+0.0047&slope\\
+0.0045&drawn\\
+0.0044&lodg\\
+0.0044&surrend\\
+0.0043&door room\\
+0.0042&middl\\
+0.0042&ranch\\
+0.0042&sharpli\\
+0.0040&canyon\\
+0.0039&gambl\\
+0.0038&due\\
+0.0038&long time\\
+0.0038&fold\\
+0.0037&rein\\
+0.0037&grave\\
+0.0036&one thing\\
+0.0036&lap\\
+0.0036&slump\\
+0.0035&whatr\\
+0.0035&sell\\
+0.0034&mourn\\
+0.0034&hand shoulder\\
+0.0034&crumpl\\
+0.0034&letter\\
+0.0034&stumbl\\
+0.0034&turn back\\
+0.0033&hold gun\\
+0.0033&gallop\\
+0.0033&straighten\\
+0.0033&cloth\\
+0.0032&slowli\\
+0.0032&bean\\
+0.0032&mount\\
+0.0031&champagn\\
+0.0031&follow\\
+0.0030&men\\
+0.0030&blaze\\
+0.0030&readi\\
+0.0030&actual\\
+0.0029&run\\
+0.0029&bug\\
+0.0029&hat\\
+0.0029&jeep\\
+0.0029&buffalo\\
+0.0029&old man\\
+0.0029&foot\\
+0.0028&morn\\
+0.0028&snake\\
+0.0028&men look\\
+0.0028&money\\
+0.0028&pond\\
+0.0028&layer\\
+0.0027&school\\
+0.0027&buy\\
+0.0027&fell\\
+0.0027&around side\\
+0.0027&eleven\\
+0.0026&joe\\
+0.0026&obey\\
+0.0026&case\\
+0.0026&busi\\
+0.0026&german\\
+0.0026&keep\\
+0.0026&dancer\\
+0.0026&judg\\
+0.0026&hand shake\\
+0.0025&grind\\
+0.0025&shi\\
+0.0025&rag\\
+0.0025&havent\\
+0.0025&turn face\\
+0.0025&take\\
+0.0025&underwear\\
+0.0024&guitar\\
+0.0024&sir\\
+0.0024&ascend\\
+0.0024&eagl\\
+0.0024&much\\
+0.0024&killer\\
+0.0024&hang\\
+Drawing wordcloud......

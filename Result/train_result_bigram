@@ -1,0 +1,161 @@
+      Action result
+Training the Logistic Regression
+Logistic Regression score 0.8970482
+Logistic Regression MSE 0.8243225
+Training the random forest...
+Random Forest score       0.8970482
+Random Forest MSE         0.8206442
+Training the SGDClassifier...
+/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/sklearn/linear_model/stochastic_gradient.py:128: FutureWarning: max_iter and tol parameters have been added in <class 'sklearn.linear_model.stochastic_gradient.SGDClassifier'> in 0.19. If both are left unset, they default to max_iter=5 and tol=None. If tol is not None, max_iter defaults to max_iter=1000. From 0.21, default max_iter will be 1000, and default tol will be 1e-3.
+  "and default tol will be 1e-3." % type(self), FutureWarning)
+SGDClassifier score       0.8956084
+=======================================================
+   Adventure result
+Training the Logistic Regression
+Logistic Regression score 0.9413247
+Logistic Regression MSE 0.9001573
+Training the random forest...
+Random Forest score       0.9413247
+Random Forest MSE         0.8991172
+Training the SGDClassifier...
+SGDClassifier score       0.9085673
+=======================================================
+   Animation result
+Training the Logistic Regression
+Logistic Regression score 0.9892009
+Logistic Regression MSE 0.9811215
+Training the random forest...
+Random Forest score       0.9892009
+Random Forest MSE         0.9806401
+Training the SGDClassifier...
+SGDClassifier score       0.9420446
+=======================================================
+      Comedy result
+Training the Logistic Regression
+Logistic Regression score 0.8945284
+Logistic Regression MSE 0.8113312
+Training the random forest...
+Random Forest score       0.8945284
+Random Forest MSE         0.8041940
+Training the SGDClassifier...
+SGDClassifier score       0.8808495
+=======================================================
+       Crime result
+Training the Logistic Regression
+Logistic Regression score 0.9280058
+Logistic Regression MSE 0.8795445
+Training the random forest...
+Random Forest score       0.9280058
+Random Forest MSE         0.8746514
+Training the SGDClassifier...
+SGDClassifier score       0.8995680
+=======================================================
+       Drama result
+Training the Logistic Regression
+Logistic Regression score 0.8326134
+Logistic Regression MSE 0.6873200
+Training the random forest...
+Random Forest score       0.8326134
+Random Forest MSE         0.6789994
+Training the SGDClassifier...
+SGDClassifier score       0.7948164
+=======================================================
+      Family result
+Training the Logistic Regression
+Logistic Regression score 0.9877610
+Logistic Regression MSE 0.9787787
+Training the random forest...
+Random Forest score       0.9877610
+Random Forest MSE         0.9783945
+Training the SGDClassifier...
+SGDClassifier score       0.9863211
+=======================================================
+     Fantasy result
+Training the Logistic Regression
+Logistic Regression score 0.9607631
+Logistic Regression MSE 0.9323327
+Training the random forest...
+Random Forest score       0.9607631
+Random Forest MSE         0.9286182
+Training the SGDClassifier...
+SGDClassifier score       0.9575234
+=======================================================
+      Horror result
+Training the Logistic Regression
+Logistic Regression score 0.9506839
+Logistic Regression MSE 0.9131656
+Training the random forest...
+Random Forest score       0.9506839
+Random Forest MSE         0.9099846
+Training the SGDClassifier...
+SGDClassifier score       0.9460043
+=======================================================
+     Musical result
+Training the Logistic Regression
+Logistic Regression score 0.9913607
+Logistic Regression MSE 0.9855641
+Training the random forest...
+Random Forest score       0.9913607
+Random Forest MSE         0.9848063
+Training the SGDClassifier...
+SGDClassifier score       0.9913607
+=======================================================
+     Mystery result
+Training the Logistic Regression
+Logistic Regression score 0.9618431
+Logistic Regression MSE 0.9351836
+Training the random forest...
+Random Forest score       0.9618431
+Random Forest MSE         0.9337643
+Training the SGDClassifier...
+SGDClassifier score       0.9499640
+=======================================================
+     Romance result
+Training the Logistic Regression
+Logistic Regression score 0.9319654
+Logistic Regression MSE 0.8889712
+Training the random forest...
+Random Forest score       0.9319654
+Random Forest MSE         0.8832549
+Training the SGDClassifier...
+SGDClassifier score       0.9258459
+=======================================================
+      Sci-Fi result
+Training the Logistic Regression
+Logistic Regression score 0.9449244
+Logistic Regression MSE 0.9054714
+Training the random forest...
+Random Forest score       0.9449244
+Random Forest MSE         0.9031624
+Training the SGDClassifier...
+SGDClassifier score       0.9247660
+=======================================================
+    Thriller result
+Training the Logistic Regression
+Logistic Regression score 0.8682505
+Logistic Regression MSE 0.7771343
+Training the random forest...
+Random Forest score       0.8682505
+Random Forest MSE         0.7710256
+Training the SGDClassifier...
+SGDClassifier score       0.8351332
+=======================================================
+         War result
+Training the Logistic Regression
+Logistic Regression score 0.9906407
+Logistic Regression MSE 0.9843408
+Training the random forest...
+Random Forest score       0.9906407
+Random Forest MSE         0.9839931
+Training the SGDClassifier...
+SGDClassifier score       0.9856012
+=======================================================
+     Western result
+Training the Logistic Regression
+Logistic Regression score 0.9960403
+Logistic Regression MSE 0.9923704
+Training the random forest...
+Random Forest score       0.9960403
+Random Forest MSE         0.9917953
+Training the SGDClassifier...
+SGDClassifier score       0.9953204

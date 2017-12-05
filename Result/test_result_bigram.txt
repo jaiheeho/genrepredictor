@@ -1,0 +1,159 @@
+     Action result
+Test with Logistic Regression
+LogisticRegression score 0.7022059
+LogisticRegression MSE   0.2586118
+Test with random forest...
+RandomForest score       0.8345588
+RandomForest MSE         0.1388183
+Test with SGD...
+SGDprediction score      0.7941176
+=======================================================
+   Adventure result
+Test with Logistic Regression
+LogisticRegression score 0.7500000
+LogisticRegression MSE   0.1968477
+Test with random forest...
+RandomForest score       0.8639706
+RandomForest MSE         0.1204295
+Test with SGD...
+SGDprediction score      0.8161765
+=======================================================
+   Animation result
+Test with Logistic Regression
+LogisticRegression score 0.9779412
+LogisticRegression MSE   0.0200817
+Test with random forest...
+RandomForest score       0.9852941
+RandomForest MSE         0.0145321
+Test with SGD...
+SGDprediction score      0.9595588
+=======================================================
+      Comedy result
+Test with Logistic Regression
+LogisticRegression score 0.5404412
+LogisticRegression MSE   0.3866469
+Test with random forest...
+RandomForest score       0.8823529
+RandomForest MSE         0.1010916
+Test with SGD...
+SGDprediction score      0.4007353
+=======================================================
+       Crime result
+Test with Logistic Regression
+LogisticRegression score 0.8860294
+LogisticRegression MSE   0.0924595
+Test with random forest...
+RandomForest score       0.9375000
+RandomForest MSE         0.0565987
+Test with SGD...
+SGDprediction score      0.7757353
+=======================================================
+       Drama result
+Test with Logistic Regression
+LogisticRegression score 0.7904412
+LogisticRegression MSE   0.1962110
+Test with random forest...
+RandomForest score       0.8566176
+RandomForest MSE         0.1245287
+Test with SGD...
+SGDprediction score      0.8566176
+=======================================================
+      Family result
+Test with Logistic Regression
+LogisticRegression score 0.9742647
+LogisticRegression MSE   0.0269666
+Test with random forest...
+RandomForest score       0.9742647
+RandomForest MSE         0.0262713
+Test with SGD...
+SGDprediction score      0.9742647
+=======================================================
+     Fantasy result
+Test with Logistic Regression
+LogisticRegression score 0.8345588
+LogisticRegression MSE   0.1272931
+Test with random forest...
+RandomForest score       0.9632353
+RandomForest MSE         0.0352264
+Test with SGD...
+SGDprediction score      0.9522059
+=======================================================
+      Horror result
+Test with Logistic Regression
+LogisticRegression score 0.9338235
+LogisticRegression MSE   0.0545461
+Test with random forest...
+RandomForest score       0.9705882
+RandomForest MSE         0.0272530
+Test with SGD...
+SGDprediction score      0.9669118
+=======================================================
+     Musical result
+Test with Logistic Regression
+LogisticRegression score 0.9852941
+LogisticRegression MSE   0.0166817
+Test with random forest...
+RandomForest score       0.9852941
+RandomForest MSE         0.0142363
+Test with SGD...
+SGDprediction score      0.9852941
+=======================================================
+     Mystery result
+Test with Logistic Regression
+LogisticRegression score 0.9522059
+LogisticRegression MSE   0.0412015
+Test with random forest...
+RandomForest score       0.9705882
+RandomForest MSE         0.0284423
+Test with SGD...
+SGDprediction score      0.9705882
+=======================================================
+     Romance result
+Test with Logistic Regression
+LogisticRegression score 0.8933824
+LogisticRegression MSE   0.0958275
+Test with random forest...
+RandomForest score       0.9595588
+RandomForest MSE         0.0381275
+Test with SGD...
+SGDprediction score      0.9301471
+=======================================================
+      Sci-Fi result
+Test with Logistic Regression
+LogisticRegression score 0.9595588
+LogisticRegression MSE   0.0389264
+Test with random forest...
+RandomForest score       0.9632353
+RandomForest MSE         0.0324700
+Test with SGD...
+SGDprediction score      0.9632353
+=======================================================
+    Thriller result
+Test with Logistic Regression
+LogisticRegression score 0.8345588
+LogisticRegression MSE   0.1523705
+Test with random forest...
+RandomForest score       0.8933824
+RandomForest MSE         0.0937725
+Test with SGD...
+SGDprediction score      0.8897059
+=======================================================
+         War result
+Test with Logistic Regression
+LogisticRegression score 0.9595588
+LogisticRegression MSE   0.0365154
+Test with random forest...
+RandomForest score       0.9705882
+RandomForest MSE         0.0281761
+Test with SGD...
+SGDprediction score      0.9705882
+=======================================================
+     Western result
+Test with Logistic Regression
+LogisticRegression score 0.9889706
+LogisticRegression MSE   0.0124436
+Test with random forest...
+RandomForest score       0.9889706
+RandomForest MSE         0.0118844
+Test with SGD...
+SGDprediction score      0.9889706
